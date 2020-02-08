@@ -1,0 +1,50 @@
+_repo: History-of-Botany-1530-1860_61240
+_version: 0.0.1
+alternative_title: Geschichte der Botanik. English
+contributor:
+  translator:
+    agent_name: Garnsey, Henry E. F. (Henry Edward Fowler)
+    alias: Garnsey, Henry Edward Fowler
+    birthdate: 1826
+    deathdate: 1903
+    gutenberg_agent_id: '51324'
+    url: http://www.gutenberg.org/2009/agents/51324
+creator:
+  author:
+    agent_name: Sachs, Julius
+    aliases:
+    - Sachs, Ferdinand Gustav Julius von
+    - Sachs, Julius von
+    birthdate: 1832
+    deathdate: 1897
+    gutenberg_agent_id: '51322'
+    url: http://www.gutenberg.org/2009/agents/51322
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Julius_von_Sachs
+    - https://de.wikipedia.org/wiki/Julius_Sachs
+  editor:
+    agent_name: Balfour, Isaac Bayley
+    aliases:
+    - Balfour, Isaac Bayley, Sir
+    - Balfour, I. B. (Isaac Bayley)
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '51323'
+    url: http://www.gutenberg.org/2009/agents/51323
+    wikipedia: https://en.wikipedia.org/wiki/Isaac_Bayley_Balfour
+description: ''
+gutenberg_issued: '2020-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61240'
+  lccn: 04009011
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Botany -- History'
+- !lcc 'QK'
+- GITenberg
+title: History of Botany (1530-1860)
+url: http://www.gutenberg.org/ebooks/61240
